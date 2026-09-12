@@ -6,7 +6,9 @@
 
 `2024.03 ~` Sookmyung Women's University, Dept. of AI Engineering
 <br>
-`2026.03 ~` 숙명여자대학교 중앙개발동아리 <i>SOLUX</i>
+`2024.03 ~ 2025.12` 숙명여자대학교 인공지능공학부 학회 <i>'웹운영팀 WIN'</i>
+<br>
+`2026.03 ~` 숙명여자대학교 중앙개발동아리 <i>'SOLUX'</i>
 
 <br>
 <br>
