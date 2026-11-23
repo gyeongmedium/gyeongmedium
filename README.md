@@ -42,9 +42,6 @@
 
 <h3>📝 Certifications</h3>
 
-`2026` <b>TOEIC</b> 980 / <b>TOEIC Speaking</b> AL
-<br>
-`2025` <a href="https://www.dataq.or.kr/www/sub/a_06.do" target="_blank"><b>ADsP</b></a> (데이터분석 준전문가)
 
 <br>
 <br>
